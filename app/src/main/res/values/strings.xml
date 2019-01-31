@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Two Activities Challenge</string>
+    <string name="text_one">Text One</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_three">Text Three</string>
+    <string name="article_heading">The Last Fight in Colosium</string>
+    <string name="article_subtitle">by Charlotte M. Yonge</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="article_text_one">\n\n
+        As the Romans grew prouder and more fond of pleasure, no one could hope to please them who did not give them sports and entertainments. When any person wished to be elected to any public office, it was a matter of course that he should compliment his fellow citizens by exhibitions of the kind they loved, and when the common people were discontented, their cry was that they wanted panem ac Circenses, \'bread and sports\', the only things they cared for. In most places where there has been a large Roman colony, remains can be seen of the amphitheatres, where the citizens were wont to assemble for these diversions. Sometimes these are stages of circular galleries of seats hewn out of the hillside, where rows of spectators might sit one above the other, all looking down on a broad, flat space in the centre, under their feet, where the representations took place. Sometimes, when the country was flat, or it was easier to build than to excavate, the amphitheatre was raised above ground, rising up to a considerable height. For more information, see the short story in www.americanliterature.com \n\n</string>
+    <string name="article_text_two">The grandest and most renowned of all these amphitheatres is the Coliseum at Rome. It was built by Vespasian and his son Titus, the conquerors of Jerusalem, in a valley in the midst of the seven hills of Rome. The captive Jews were forced to labour at it; and the materials, granite outside, and softer travertine stone within, are so solid and so admirably built, that still at the end of eighteen centuries it has scarcely even become a ruin, but remains one of the greatest wonders of Rome.
+    \n\n</string>
+    <string name="article_text_three"> Five acres of ground were enclosed within the oval of its outer wall, which outside rises perpendicularly in tiers of arches one above the other. Within, the galleries of seats projected forwards, each tier coming out far beyond the one above it, so that between the lowest and the outer wall there was room for a great space of chambers, passages, and vaults around the central space, called the arena, from the arena, or sand, with which it was strewn.
+    \n\n</string>
+</resources>
